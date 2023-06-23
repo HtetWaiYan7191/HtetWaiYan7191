@@ -1,6 +1,6 @@
 <!-- <img src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" width="50%" align="center"> -->
 <h1 align="center">Hi 👋, I'm Htet Wai Yan(Yan Yan)</h1>
-<h3 align="center">Passionate Front end Developer from Myanmar</h3>
+<h3 align="center">Passionate FullStack Developer from Myanmar</h3>
 <img align = "right" alt="Coding" width="30%" src="https://dxbcode.com/assets/images/index-meta.gif"">
 - 🔭 I’m currently working on [Monthly-Expense-Tracker](https://github.com/HtetWaiYan7191/monthly-expense-tracker)
 
