@@ -1,5 +1,5 @@
 <!-- <img src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" width="50%" align="center"> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF00FF&width=435&lines=👋+Welcome+To+My+Github+;I+am+Htet+Wai+Yan+(+yan+yan+))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=12FFF5&width=435&lines=👋+Welcome+To+My+Github+;I+am+Htet+Wai+Yan+(+yan+yan+))](https://git.io/typing-svg)
 
 <h1 align="center">FullStack Developer from Myanmar </h1>
 <img align = "right" alt="Coding" width="30%" src="https://dxbcode.com/assets/images/index-meta.gif"">
