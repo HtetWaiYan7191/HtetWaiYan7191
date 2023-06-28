@@ -35,8 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <br><br>
- <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=htetwaiyan7191&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="htetwaiyan7191">
+ <p align="right">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=htetwaiyan7191&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="htetwaiyan7191">
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=htetwaiyan7191&show_icons=true&locale=en&theme=tokyonight" alt="htetwaiyan7191" /></p>
