@@ -7,7 +7,14 @@
 <h3 align="center">
   Hi, I'm Htet Wai Yan, a passionate full-stack developer from Myanmar.
 </h3>
-<br><br>
+<br>
+
+<p align='center'> 
+  Visitor count <br><br>
+  <img src="https://profile-counter.glitch.me/HtetWaiYan7191/count.svg" />
+</p>
+
+<br>
 
 <img align="right" alt="Coding" width="30%" src="https://dxbcode.com/assets/images/index-meta.gif">
 
