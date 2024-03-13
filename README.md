@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="30%" src="https://dxbcode.com/assets/images/index-meta.gif">
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/HtetWaiYan7191/my-portfolio)
-- 🌱 I’m currently learning **ExpressJS and TypeScript**
+- 🌱 I’m currently honing **Ruby On Rails**
 - 📫 How to reach me: [yanyan191819@gmail.com](mailto:yanyan191819@gmail.com)
 - ⚡ Fun fact: I am currently in the process of learning how to cultivate mindfulness
 
